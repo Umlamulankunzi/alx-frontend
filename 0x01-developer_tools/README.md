@@ -187,182 +187,105 @@ File: 21-hbtn_font_lib
 File: 22-xhr_calls
   
 ### 23. Audits panel
-mandatory
-Go to https://dev-tools.alx-tools.com/
 
-What is the notation for Performance (for desktop mode and no throttling - also called Lighthouse)?
+- Go to https://dev-tools.alx-tools.com/
+- What is the notation for Performance (for desktop mode and no throttling - also called Lighthouse)?
+- Take a screenshot of it
 
-Take a screenshot of it
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 23-performance_audit.png
  
 ### 24. Static assets
-mandatory
-Go to https://dev-tools.alx-tools.com/
+- Go to https://dev-tools.alx-tools.com/
+- How many static assets need a better cache policy?
+- Take a screenshot of it
 
-How many static assets need a better cache policy?
-
-Take a screenshot of it
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 24-static_assets_audit.png
  
 ### 25. Accessibility
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-When you run an accessibility audit, what is the contrast issue?
+- Go to https://dev-tools.alx-tools.com/
+- When you run an accessibility audit, what is the contrast issue?
+- Only letter of multiple choice answer placed in answer file:
+  A. Image elements do not have [alt] attributes <br/>
+  B. Links do not have a discernible name<br/>
+  C. Background and foreground colors do not have a sufficient contrast ratio.<br/>
 
-In your answer file only put the letter of the multiple choice answer from below:
-
-A. Image elements do not have [alt] attributes
-B. Links do not have a discernible name
-C. Background and foreground colors do not have a sufficient contrast ratio.
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 25-contrast_issue
   
 ### 26. No alt
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-Which classes are on the images that have no alt attribute?
+- Go to https://dev-tools.alx-tools.com/
+- Which classes are on the images that have no alt attribute?
+- Answer file to contain all classes, example: .my_class.my_second if 2 classes
 
-Your answer file must contains all classes, example: .my_class.my_second if 2 classes
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 26-no_alt
   
 ### 27. Best practices
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-Which attribute is missing on all the links with the target _blank?
+- Go to https://dev-tools.alx-tools.com/
+- Which attribute is missing on all the links with the target _blank?
+- Only letter of multiple choice answer placed in answer file:
+  A. rel="noopener" <br/>
+  B. rel="noreferrer"<br/>
+  C. A and B<br/>
+  D. rel = "nofollow"<br/>
 
-In your answer file only put the letter of the multiple choice answer from below:
-
-A. rel="noopener"
-B. rel="noreferrer"
-C. A and B
-D. rel = "nofollow"
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 27-missing_attr
   
 ### 28. SEO
-mandatory
-Go to https://dev-tools.alx-tools.com/
 
-Which <a> links don’t have enough text description?
+- Go to https://dev-tools.alx-tools.com/
+- Which <a> links don’t have enough text description?
+- Take a screenshot of it
 
-Take a screenshot of it
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 28-unclear_desc.png
  
 ### 29. Sources
-mandatory
-Go to https://dev-tools.alx-tools.com/
 
-The sources panel allow you to edit files, add breakpoints to analyse your JavaScript code and create snippets.
+- Go to https://dev-tools.alx-tools.com/
+- The sources panel allow you to edit files, add breakpoints to analyse your JavaScript code and create snippets.
+- Create a new snippet called allcolors.js
+- Copy-paste the code on that page
+- Run the code
+- Take a screenshot of the result in your console
 
-Create a new snippet called allcolors.js
-Copy-paste the code on that page
-Run the code
-Take a screenshot of the result in your console
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 29-how_many_colors.png
  
 ### 30. Block CSS files
-mandatory
-Go to https://dev-tools.alx-tools.com/
 
-Block all CSS requests
+- Go to https://dev-tools.alx-tools.com/
+- Block all CSS requests
+- Take a screenshot of it
 
-Take a screenshot of it
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 30-no_css.png
  
 ### 31. Application panel
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-The application panel gives you access to the storage (cookies, sessions, cache…) and some other options as Services Workers and more recently, notifications.
+- Go to https://dev-tools.alx-tools.com/
+- The application panel gives you access to the storage (cookies, sessions, cache…) and some other options as Services Workers and more recently, notifications.
+- What is the only key present in the session storage for this page?
 
-What is the only key present in the session storage for this page?
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 31-session_storage_key
   
 ### 32. Service workers
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-Does this page have any service workers? Yes or No
+- Go to https://dev-tools.alx-tools.com/
+- Does this page have any service workers? Yes or No
 
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 32-service_workers
   
 ### 33. Security
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-The security panel allows you to make sure HTTS is properly implement on a webpage.
+- Go to https://dev-tools.alx-tools.com/
+- The security panel allows you to make sure HTTS is properly implement on a webpage.
+- Which organization issued the SSL certificate for this page?
 
-Which organization issued the SSL certificate for this page?
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 33-ssl_cert
   
 ### 34. Expiration date
-mandatory
-Go to https://dev-tools.alx-tools.com/
 
-When does the SSL certificate expire?
+- Go to https://dev-tools.alx-tools.com/
+- When does the SSL certificate expire?
+- Take a screenshot of it
 
-Take a screenshot of it
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 34-ssl_expiration.png
