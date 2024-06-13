@@ -128,10 +128,10 @@ File: 14-doc_title
 - Go to https://dev-tools.alx-tools.com/
 - Which front-end framework could we guess this page is using?
 - Only letter of multiple choice answer placed in answer file:
-* React JS
-* Material Design
-* Bootstrap
-* Angular JS
+  * React JS
+  * Material Design
+  * Bootstrap
+  * Angular JS
 
 File: 15-hbtn_framework
   
@@ -144,82 +144,46 @@ File: 15-hbtn_framework
 File: 16-weight.png
  
 ### 17. Number of requests
-mandatory
-Go to https://dev-tools.alx-tools.com/
 
-What is the number of requests done when accessing this page?
+- Go to https://dev-tools.alx-tools.com/
+- What is the number of requests done when accessing this page?
+- Take a screenshot of it
 
-Take a screenshot of it
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 17-requests.png
  
 ### 18. Number of CSS files
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-How many CSS resources are loaded on this page?
+- Go to https://dev-tools.alx-tools.com/
+- How many CSS resources are loaded on this page?
 
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 18-css_loaded
   
 ### 19. Number of images
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-How many image resources are loaded on this page?
+- Go to https://dev-tools.alx-tools.com/
+- How many image resources are loaded on this page?
 
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 19-images_loaded
   
 ### 20. Favicon image type
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-What is the type value of the favicon image?
+- Go to https://dev-tools.alx-tools.com/
+- What is the type value of the favicon image?
 
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 20-favicon_type
   
 ### 21. Font library
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-The website uses a font library for their icons, which one is it?
+- Go to https://dev-tools.alx-tools.com/
+- The website uses a font library for their icons, which one is it?
 
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 21-hbtn_font_lib
   
 ### 22. XHR calls
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-What is the name of the resource that generates 1 XHR calls?
+- Go to https://dev-tools.alx-tools.com/
+- What is the name of the resource that generates 1 XHR calls?
 
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 22-xhr_calls
   
 ### 23. Audits panel
