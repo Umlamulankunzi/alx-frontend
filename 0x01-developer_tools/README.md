@@ -128,10 +128,10 @@ File: 14-doc_title
 - Go to https://dev-tools.alx-tools.com/
 - Which front-end framework could we guess this page is using?
 - Only letter of multiple choice answer placed in answer file:
-A. React JS
-B. Material Design
-C. Bootstrap
-D. Angular JS
+* React JS
+* Material Design
+* Bootstrap
+* Angular JS
 
 File: 15-hbtn_framework
   
