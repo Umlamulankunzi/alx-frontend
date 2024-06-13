@@ -117,49 +117,30 @@ File: 12-print_version.png
 File: 13-logo_dollar0
   
 ### 14. Write code in the console
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-Write in the console console.log(document.title), what is returned?
+- Go to https://dev-tools.alx-tools.com/
+- Write in the console console.log(document.title), what is returned?
 
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 14-doc_title
   
 ### 15. Web framework
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-Which front-end framework could we guess this page is using?
-
-In your answer file only put the letter of the multiple choice answer from below:
-
+- Go to https://dev-tools.alx-tools.com/
+- Which front-end framework could we guess this page is using?
+- Only letter of multiple choice answer placed in answer file:
 A. React JS
 B. Material Design
 C. Bootstrap
 D. Angular JS
-Repo:
 
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 15-hbtn_framework
   
 ### 16. Homepage weight
-mandatory
-Go to https://dev-tools.alx-tools.com/
 
-What is the total weight of the page (with all the elements)?
+- Go to https://dev-tools.alx-tools.com/
+- What is the total weight of the page (with all the elements)?
+- Take a screenshot of it
 
-Take a screenshot of it
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 16-weight.png
  
 ### 17. Number of requests
