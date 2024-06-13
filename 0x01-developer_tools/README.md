@@ -68,91 +68,52 @@ Go to https://dev-tools.alx-tools.com/
 File: 7-number_of_listeners
   
 ### 8. What is the HSL code
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-Select the primary button “Send”
+- Go to https://dev-tools.alx-tools.com/
+- Select the primary button “Send”
+- What is the equivalent value of the hexadecimal background-color, in HSL?
+- answer should be: hsl(<VALUES>);, example: hsl(241, 23%, 24%); followed by a new line
 
-What is the equivalent value of the hexadecimal background-color, in HSL?
-
-(format of your answer should be: hsl(<VALUES>);, example: hsl(241, 23%, 24%); following by a new line)
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 8-hsl
   
 ### 9. The max-width of the container
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-What is the max-width for the first .container in the section “About”? (your browser width must be between 1250px and 1440px and with a zoom at 100%)
+- Go to https://dev-tools.alx-tools.com/
+- What is the max-width for the first .container in the section “About”?
+- Browser width must be between 1250px and 1440px and with a zoom at 100%)
+- Answer should be max-width: <VALUE>;, example: max-width: 670px)
 
-(format of your answer should be max-width: <VALUE>;, example: max-width: 670px)
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 9-max_width
   
 ### 10. Moving around
-mandatory
-Go to https://dev-tools.alx-tools.com/
 
-Switch the section “About” and “Portfolio”
+- Go to https://dev-tools.alx-tools.com/
+- Switch the section “About” and “Portfolio”
+- Take a screenshot of it
 
-Take a screenshot of it
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 10-moved_around.png
  
 ### 11. Coverage
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-How many bytes that freelancer.css covers?
+- Go to https://dev-tools.alx-tools.com/
+- How many bytes that freelancer.css covers?
+- Answer file must contain the value in Byte (example: 6144 for 6KB)
 
-Answer file must contain the value in Byte (example: 6144 for 6KB)
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 11-coverage
   
 ### 12. Emulate the print version of the webpage
-mandatory
-Go to https://dev-tools.alx-tools.com/
 
-Take a screenshot of the homepage, only emulation the CSS print version of the website.
+- Go to https://dev-tools.alx-tools.com/
+- Take a screenshot of the homepage, only emulation the CSS print version of the website.
 
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 12-print_version.png
  
 ### 13. Using the console
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-Select the Avatar image in the header and type $0 in the console. Enter.
+- Go to https://dev-tools.alx-tools.com/
+- Select the Avatar image in the header and type $0 in the console. Enter.
+- What does it return? 
 
-What does it return?
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 13-logo_dollar0
   
 ### 14. Write code in the console
