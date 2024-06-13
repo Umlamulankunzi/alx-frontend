@@ -12,111 +12,62 @@
 
 ## Tasks
 ### 0. Responsive device
-mandatory
-Go to https://dev-tools.alx-tools.com/
-Take a screenshot of the website using the device toolbar Choose iPhone X and show the size in your screenshot (selected device or size in pixel of the rendering)
+
+Go to https://dev-tools.alx-tools.com/ Take a screenshot of the website using the device toolbar Choose iPhone X and show the size in your screenshot (selected device or size in pixel of the rendering)
+
 File: 0-responsive_device.png
  
 ###  1. Change the background color
-mandatory
-Go to https://dev-tools.alx-tools.com/
 
-Change the background-color of the body to use #4233bd Take a screenshot of the PORTFOLIO section
+Go to https://dev-tools.alx-tools.com/ Change the background-color of the body to use #4233bd Take a screenshot of the PORTFOLIO section
 
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 1-change_bg_color.png
  
-2. Force element state
-mandatory
-Go to https://dev-tools.alx-tools.com/
+### 2. Force element state
 
-Force the hover state of the “cake” block in the section Portfolio Take a screenshot of it
+Go to https://dev-tools.alx-tools.com/ Force the hover state of the “cake” block in the section Portfolio Take a screenshot of it
 
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 2-pathways_menu.png
  
-3. Copy all the styles of the button
+### 3. Copy all the styles of the button
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
 
-Select the Download me! and copy all the CSS styling that is applied on this button.
+Go to https://dev-tools.alx-tools.com/ Select the Download me! and copy all the CSS styling that is applied on this button. Answer file to contain all CSS styling one per line like this example:
 
-Your answer file must contain all CSS styling one per line like this example:
-
+```CSS
 $ head -2 3-button_styles
 border-radius: 1px;
 color: #FF00FF;
 $
-Repo:
+```
 
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 3-button_styles
   
-4. Change button styles
-mandatory
-Go to https://dev-tools.alx-tools.com/
+### 4. Change button styles
 
-All primary buttons (btn-primary) should have the #0080ee color as a background color
-All outlined buttons light (btn-outline-light) should have #0020aa for the text color
-Screenshot all buttons that changed and merge it to one image
-Repo:
+Go to https://dev-tools.alx-tools.com/ All primary buttons (btn-primary) should have the #0080ee color as a background color. All outlined buttons light (btn-outline-light) should have #0020aa for the text color. Screenshot all buttons that changed and merge it to one image
 
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 4-new_buttons.png
  
-5. Remove part of the website
-mandatory
-Go to https://dev-tools.alx-tools.com/
+### 5. Remove part of the website
 
-Remove the div of the “cake” box in the section Portfolio
+Go to https://dev-tools.alx-tools.com/ Remove the div of the “cake” box in the section Portfolio. Take a screenshot of it
 
-Take a screenshot of it
-
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 5-deleted_elements.png
  
-6. Where is it coming from?
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
+### 6. Where is it coming from?
 
-On the right panel, click on the Computed tab
-Then, select the h2 with the text ABOUT
-Search for margin-bottom
-Which file is coming from that declaration?
+Go to https://dev-tools.alx-tools.com/ On the right panel, click on the Computed tab Then, select the h2 with the text About Search for margin-bottom, Which file is coming from that declaration?
 
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 6-declaration_file
   
-7. How many listeners
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Go to https://dev-tools.alx-tools.com/
+### 7. How many listeners
 
-How many times click events are referenced in JavaScript files?
+Go to https://dev-tools.alx-tools.com/ 
 
-Repo:
-
-GitHub repository: alx-frontend
-Directory: 0x01-developer_tools
 File: 7-number_of_listeners
   
-8. What is the HSL code
+### 8. What is the HSL code
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -133,7 +84,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 8-hsl
   
-9. The max-width of the container
+### 9. The max-width of the container
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -148,7 +99,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 9-max_width
   
-10. Moving around
+### 10. Moving around
 mandatory
 Go to https://dev-tools.alx-tools.com/
 
@@ -162,7 +113,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 10-moved_around.png
  
-11. Coverage
+### 11. Coverage
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -177,7 +128,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 11-coverage
   
-12. Emulate the print version of the webpage
+### 12. Emulate the print version of the webpage
 mandatory
 Go to https://dev-tools.alx-tools.com/
 
@@ -189,7 +140,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 12-print_version.png
  
-13. Using the console
+### 13. Using the console
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -204,7 +155,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 13-logo_dollar0
   
-14. Write code in the console
+### 14. Write code in the console
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -217,7 +168,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 14-doc_title
   
-15. Web framework
+### 15. Web framework
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -236,7 +187,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 15-hbtn_framework
   
-16. Homepage weight
+### 16. Homepage weight
 mandatory
 Go to https://dev-tools.alx-tools.com/
 
@@ -250,7 +201,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 16-weight.png
  
-17. Number of requests
+### 17. Number of requests
 mandatory
 Go to https://dev-tools.alx-tools.com/
 
@@ -264,7 +215,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 17-requests.png
  
-18. Number of CSS files
+### 18. Number of CSS files
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -277,7 +228,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 18-css_loaded
   
-19. Number of images
+### 19. Number of images
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -290,7 +241,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 19-images_loaded
   
-20. Favicon image type
+### 20. Favicon image type
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -303,7 +254,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 20-favicon_type
   
-21. Font library
+### 21. Font library
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -316,7 +267,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 21-hbtn_font_lib
   
-22. XHR calls
+### 22. XHR calls
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -329,7 +280,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 22-xhr_calls
   
-23. Audits panel
+### 23. Audits panel
 mandatory
 Go to https://dev-tools.alx-tools.com/
 
@@ -343,7 +294,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 23-performance_audit.png
  
-24. Static assets
+### 24. Static assets
 mandatory
 Go to https://dev-tools.alx-tools.com/
 
@@ -357,7 +308,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 24-static_assets_audit.png
  
-25. Accessibility
+### 25. Accessibility
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -375,7 +326,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 25-contrast_issue
   
-26. No alt
+### 26. No alt
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -390,7 +341,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 26-no_alt
   
-27. Best practices
+### 27. Best practices
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -409,7 +360,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 27-missing_attr
   
-28. SEO
+### 28. SEO
 mandatory
 Go to https://dev-tools.alx-tools.com/
 
@@ -423,7 +374,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 28-unclear_desc.png
  
-29. Sources
+### 29. Sources
 mandatory
 Go to https://dev-tools.alx-tools.com/
 
@@ -439,7 +390,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 29-how_many_colors.png
  
-30. Block CSS files
+### 30. Block CSS files
 mandatory
 Go to https://dev-tools.alx-tools.com/
 
@@ -453,7 +404,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 30-no_css.png
  
-31. Application panel
+### 31. Application panel
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -468,7 +419,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 31-session_storage_key
   
-32. Service workers
+### 32. Service workers
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -481,7 +432,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 32-service_workers
   
-33. Security
+### 33. Security
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Go to https://dev-tools.alx-tools.com/
@@ -496,7 +447,7 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 33-ssl_cert
   
-34. Expiration date
+### 34. Expiration date
 mandatory
 Go to https://dev-tools.alx-tools.com/
 
